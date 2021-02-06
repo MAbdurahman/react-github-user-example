@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
+import Github from './../components/github/Github';
 
-function App() {
+export default function App() {
 	return (
-		<div className='app'>
-			<h1>React Github Users Example</h1>
+		<div>
+			<Github />
 		</div>
 	);
-}
+};
 
-export default App;

@@ -13,7 +13,7 @@ export default class Github extends Component {
    render() {
       return (
          <div className='github'>
-            <h1>Github</h1>
+            <h1>Github Component</h1>
          </div>
       );
    };
