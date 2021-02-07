@@ -1,3 +1,8 @@
 .github {
    text-align: center;
+   margin: 1.5em auto;
+   font-size: 3rem;
+}
+.githubLoader {
+   margin: 0 auto;
 }
